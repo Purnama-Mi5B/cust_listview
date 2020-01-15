@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">cust_listview</string>
+    <string name="country_name">Nama Negara</string>
+    <string name="country_nama" />
+    <string name="country_detail" />
+</resources>
